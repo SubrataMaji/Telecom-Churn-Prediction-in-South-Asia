@@ -5,4 +5,8 @@
 * Performed in detailed EDA on the dataset. Clean and pre-process dataset. Prepare new feature and generate Target class using other features. Removed outliers from lots of features and reduced the no of features.
 
 * The task is a binary classification task. Tried various models like LR, SVM, DT, RF & XGB with hyper parameters tuning. Able to achieve f1-score: 0.934 on test data.
+*  Files available:
+*  1. ipython notebook.
+*  2. Raw dataset.
+*  3. Cleaned dataset used for training and all the other files I have used while working on this task.
 
