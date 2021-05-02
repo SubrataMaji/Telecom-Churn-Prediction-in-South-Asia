@@ -6,7 +6,7 @@
 
 * The task is a binary classification task. Tried various models like LR, SVM, DT, RF & XGB with hyper parameters tuning. Able to achieve f1-score: 0.934 on test data.
 *  Files available:
-*  1. ipython notebook.
-*  2. Raw dataset.
-*  3. Cleaned dataset used for training and all the other files I have used while working on this task.
+1. ipython notebook.
+2. Raw dataset.
+3. Cleaned dataset used for training and all the other files I have used while working on this task.
 
